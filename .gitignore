@@ -1,0 +1,13 @@
+.DS_Store
+.vs/
+**/.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.rsuser
+*.lscache
+*.tmp
+*.log

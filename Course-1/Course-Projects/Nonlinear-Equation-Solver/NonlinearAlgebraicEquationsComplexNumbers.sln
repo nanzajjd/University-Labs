@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonlinearAlgebraicEquationsComplexNumbers", "NonlinearAlgebraicEquationsComplexNumbers.csproj", "{F2E2F1BE-3243-5CC1-81F9-06D3045A79BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E2F1BE-3243-5CC1-81F9-06D3045A79BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E2F1BE-3243-5CC1-81F9-06D3045A79BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E2F1BE-3243-5CC1-81F9-06D3045A79BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E2F1BE-3243-5CC1-81F9-06D3045A79BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015CFC38-4382-422B-B15F-507047E7E5CC}
+	EndGlobalSection
+EndGlobal
